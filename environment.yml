@@ -1,0 +1,11 @@
+name: icon
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - xarray
+  - ipykernel
+  - ipympl
+  - notebook
+  - netcdf4
+  - scipy

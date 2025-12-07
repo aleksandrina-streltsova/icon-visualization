@@ -9,3 +9,5 @@ dependencies:
   - notebook
   - netcdf4
   - scipy
+  - cartopy
+  - imageio
